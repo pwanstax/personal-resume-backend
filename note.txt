@@ -1,0 +1,16 @@
+myproject/
+ ├─ controllers/
+ │  ├─ user.go
+ |  └─ product.go
+ ├─ models/
+ │  ├─ user.go
+ |  └─ product.go 
+ ├─ drivers/
+ │  └─ mongodb.go
+ ├─ middlewares/
+ ├─ routes/
+ │  ├─ user.go
+ |  └─ product.go
+ ├─ utils/
+ ├─ main.go
+ └─ README.md
